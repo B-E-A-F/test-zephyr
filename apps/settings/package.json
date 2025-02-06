@@ -9,8 +9,8 @@
     "format": "biome format --write"
   },
   "dependencies": {
-    "@repo/tailwind-config": "workspace:^",
-    "@repo/typescript-config": "workspace:^",
+    "@repo/tailwind-config": "^",
+    "@repo/typescript-config": "^",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.49",
     "postcss-loader": "^8.1.1",
